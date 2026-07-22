@@ -1,0 +1,7 @@
+#Ausschließung von Dateien mit folgenden Endungen
+
+
+*.tmp
+*.temp
+
+*.log
